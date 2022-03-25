@@ -1,0 +1,60 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "marlac",
+      "email": "messi@messi.com",
+      "telefono": "24524537343",
+      "notas": "",
+      "id": 1
+    },
+    {
+      "nombre": "Vodka",
+      "empresa": "ardidas",
+      "email": "caca@hotmail.com",
+      "telefono": "124",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Estanislao",
+      "empresa": "marlac",
+      "email": "emartinezlacabe@gmail.com",
+      "telefono": "24524537343",
+      "notas": "Mas kpo",
+      "id": 4
+    },
+    {
+      "nombre": "Ruben",
+      "empresa": "marlac",
+      "email": "ruben@gmail.com",
+      "telefono": "24524537343",
+      "notas": "wer",
+      "id": 6
+    },
+    {
+      "nombre": "Leo",
+      "empresa": "MESSI ",
+      "email": "messi@messi.com",
+      "telefono": "02398512391",
+      "notas": "el num 1\n",
+      "id": 7
+    },
+    {
+      "nombre": "Maria Casablanca",
+      "empresa": "Whitech House",
+      "email": "mariac@whitech.com.ar",
+      "telefono": "120412409",
+      "notas": "ATR LA PIBITA",
+      "id": 9
+    },
+    {
+      "nombre": "Penaldo",
+      "empresa": "Penalties com",
+      "email": "messi@messi.com",
+      "telefono": "123",
+      "notas": "",
+      "id": 10
+    }
+  ]
+}
